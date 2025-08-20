@@ -32,24 +32,24 @@ DauGiaMoHinh là hệ thống giúp người dùng tham gia vào các phiên đ�
 ---
 
 ## 📂 Cấu trúc dự án
----
-DauGiaMoHinh/
-│── backend/ # Spring Boot (REST API, Security, MySQL)
-│ ├── src/main/java/ # Source code Java
-│ ├── src/main/resources/
-│ │ └── application.properties
-│ └── pom.xml # Maven build file
+```
+OnlineFood/
+│── backend/              # Spring Boot (REST API, Security, MySQL)
+│   ├── src/main/java/    # Source code Java
+│   ├── src/main/resources/
+│   │   └── application.properties
+│   └── pom.xml           # Maven build file
 │
-│── frontend/ # ReactJS (UI cho người dùng & admin)
-│ ├── public/
-│ ├── src/
-│ └── package.json
+│── frontend/             # ReactJS (UI cho người dùng & admin)
+│   ├── public/
+│   ├── src/
+│   └── package.json
 │
-│── database/ # File SQL khởi tạo CSDL
-│ └── daugiadb.sql
+│── database/             # File SQL khởi tạo CSDL
+│   └── onlinefood_full_data.sql
 │
-└── README.md # Tài liệu dự án
-
+└── README.md             # Tài liệu dự án
+```
 ---
 
 ## 🚀 Hướng dẫn cài đặt
