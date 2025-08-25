@@ -104,6 +104,18 @@ npm start
 
 ---
 
+## 👤 Tài khoản mẫu
+
+Để test các tính năng của hệ thống, bạn có thể sử dụng tài khoản mẫu sau:
+
+### 🔑 Admin
+- **Tài khoản:** `admin`
+- **Mật khẩu:** `123456`
+
+*Lưu ý: Đây là tài khoản demo, trong môi trường thực tế nên thay đổi mật khẩu mạnh hơn.*
+
+---
+
 ## 🎯 Demo
 
 ### Giao diện người dùng
